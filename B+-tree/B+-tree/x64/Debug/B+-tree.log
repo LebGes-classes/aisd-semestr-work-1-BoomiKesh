@@ -1,0 +1,4 @@
+﻿  B+-tree.cpp
+C:\Users\ThinkBook\OneDrive\Desktop\Учёба\Прога\C++\aisd-semestr-work-1-BoomiKesh\B+-tree\B+-tree\B+-tree.cpp(46,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ThinkBook\OneDrive\Desktop\Учёба\Прога\C++\aisd-semestr-work-1-BoomiKesh\B+-tree\B+-tree\B+-tree.cpp(101,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  B+-tree.vcxproj -> C:\Users\ThinkBook\OneDrive\Desktop\Учёба\Прога\C++\aisd-semestr-work-1-BoomiKesh\B+-tree\x64\Debug\B+-tree.exe

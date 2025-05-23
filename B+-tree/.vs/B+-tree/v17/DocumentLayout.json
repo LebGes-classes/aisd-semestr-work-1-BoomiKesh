@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ThinkBook\\OneDrive\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\\u041F\u0440\u043E\u0433\u0430\\C\u002B\u002B\\aisd-semestr-work-1-BoomiKesh\\B\u002B-tree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA43E9C-0789-4C53-B1E0-4BD03C7900FF}|B\u002B-tree\\B\u002B-tree.vcxproj|C:\\Users\\ThinkBook\\OneDrive\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\\u041F\u0440\u043E\u0433\u0430\\C\u002B\u002B\\aisd-semestr-work-1-BoomiKesh\\B\u002B-tree\\B\u002B-tree\\B\u002B-tree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FDA43E9C-0789-4C53-B1E0-4BD03C7900FF}|B\u002B-tree\\B\u002B-tree.vcxproj|solutionrelative:B\u002B-tree\\B\u002B-tree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ThinkBook\\OneDrive\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\\u041F\u0440\u043E\u0433\u0430\\C\u002B\u002B\\aisd-semestr-work-1-BoomiKesh\\B\u002B-tree\\B\u002B-tree\\Tree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:B\u002B-tree\\Tree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "B\u002B-tree.cpp",
+              "DocumentMoniker": "C:\\Users\\ThinkBook\\OneDrive\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\\u041F\u0440\u043E\u0433\u0430\\C\u002B\u002B\\aisd-semestr-work-1-BoomiKesh\\B\u002B-tree\\B\u002B-tree\\B\u002B-tree.cpp",
+              "RelativeDocumentMoniker": "B\u002B-tree\\B\u002B-tree.cpp",
+              "ToolTip": "C:\\Users\\ThinkBook\\OneDrive\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\\u041F\u0440\u043E\u0433\u0430\\C\u002B\u002B\\aisd-semestr-work-1-BoomiKesh\\B\u002B-tree\\B\u002B-tree\\B\u002B-tree.cpp",
+              "RelativeToolTip": "B\u002B-tree\\B\u002B-tree.cpp",
+              "ViewState": "AgIAANsAAAAAAAAAAAAAAKAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-19T17:12:16.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tree.h",
+              "DocumentMoniker": "C:\\Users\\ThinkBook\\OneDrive\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\\u041F\u0440\u043E\u0433\u0430\\C\u002B\u002B\\aisd-semestr-work-1-BoomiKesh\\B\u002B-tree\\B\u002B-tree\\Tree.h",
+              "RelativeDocumentMoniker": "B\u002B-tree\\Tree.h",
+              "ToolTip": "C:\\Users\\ThinkBook\\OneDrive\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\\u041F\u0440\u043E\u0433\u0430\\C\u002B\u002B\\aisd-semestr-work-1-BoomiKesh\\B\u002B-tree\\B\u002B-tree\\Tree.h",
+              "RelativeToolTip": "B\u002B-tree\\Tree.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-20T09:09:54.525Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
